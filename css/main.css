@@ -8,6 +8,7 @@ html {
   border-top: 3px solid #2d5a4d;
   border-bottom: 3px solid #2d5a4d;
   color: #fff;
+  background-size: 64px;
 }
 
 .logo {
@@ -44,11 +45,8 @@ html {
 
 .banner-content {
   color: #fff;
-  padding-top: 20em;
-  background-image: url("../images/two-leaves.svg");
-  background-repeat: no-repeat;
-  background-size: 64px;
-  background-position: .5em 15em;
+  background: url("../images/two-leaves.svg") no-repeat .75em 180px / 100px;
+  padding-top: 300px;
 }
 
 @media only screen and (min-width: 60em) {
