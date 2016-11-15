@@ -48,7 +48,7 @@ html {
   background-image: url("../images/two-leaves.svg");
   background-repeat: no-repeat;
   background-size: 64px;
-  background-position: 1em 15em;
+  background-position: .5em 15em;
 }
 
 @media only screen and (min-width: 60em) {
